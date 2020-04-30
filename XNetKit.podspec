@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'XNetKit'
-  s.version          = '1.0.1'
+  s.version          = '1.0.2'
   s.summary          = '要一个不带警告的自动化工程就要有描述'
 
 # This description is used to generate tags and improve search results.
