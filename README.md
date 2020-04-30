@@ -27,3 +27,4 @@ o-xuxiaowen-o, o-xuxiaowen-o@qq.com
 ## License
 
 XNetKit is available under the MIT license. See the LICENSE file for more info.
+就这段描述应该改一下，如果不识别报了个警告得不偿失
