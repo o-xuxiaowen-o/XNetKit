@@ -1,6 +1,6 @@
 # XNetKit
 
-[![CI Status](https://img.shields.io/travis/972510000@qq.com/XNetKit.svg?style=flat)](https://travis-ci.org/972510000@qq.com/XNetKit)
+[![CI Status](https://img.shields.io/travis/o-xuxiaowen-o/XNetKit.svg?style=flat)](https://travis-ci.org/o-xuxiaowen-o/XNetKit)
 [![Version](https://img.shields.io/cocoapods/v/XNetKit.svg?style=flat)](https://cocoapods.org/pods/XNetKit)
 [![License](https://img.shields.io/cocoapods/l/XNetKit.svg?style=flat)](https://cocoapods.org/pods/XNetKit)
 [![Platform](https://img.shields.io/cocoapods/p/XNetKit.svg?style=flat)](https://cocoapods.org/pods/XNetKit)
