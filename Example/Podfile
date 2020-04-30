@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'XNetKit_Example' do
+  pod 'XNetKit', :path => '../'
+
+  target 'XNetKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
