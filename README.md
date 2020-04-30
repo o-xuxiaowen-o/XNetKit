@@ -22,7 +22,7 @@ pod 'XNetKit'
 
 ## Author
 
-972510000@qq.com, o-xuxiaowen-o@qq.com
+o-xuxiaowen-o, o-xuxiaowen-o@qq.com
 
 ## License
 
